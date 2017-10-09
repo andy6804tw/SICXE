@@ -35,7 +35,7 @@
   $ java SICXE
   ```
 
-- 注意SIC.txt檔案路徑位要與java放一起才能正確執行
+- 注意SICXE.txt檔案路徑位要與java放一起才能正確執行
 
 <img src="Screenshot/pic2.png" width="450">
 
