@@ -3,7 +3,7 @@
 ## SIC/XE機器架構
 1. 記憶體 : 1 Mega bytes = 2 ^ 20
 2. 用來表示記憶體位址之位元數為 20 bits
-- 暫存器：（九種 每個24bits除浮點運算為48bits）
+- 暫存器：（九種 每個24bits除浮點運算為48bits）
   - A (Accumulator) 累加器：算術運算
   - X (Index register) 索引暫存器：定址
   - L (Linkage register) 連結暫存器：跳到副程式JSUB，儲存返回位置
